@@ -7,7 +7,7 @@ Repository for University Kentucky Senior Capstone Design Team (Spring/Fall 2021
   - Controls the ESP32 via Wi-Fi
   
 ## ESP32
-  - Written in C++
+  - Written in Arduino C
   - Controls motors, sensors, etc on the platform
   - Controlled by iOS App via Wi-Fi
 
