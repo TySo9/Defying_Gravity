@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADC088S102CIMT_NOPB
+F https://www.ti.com/lit/ds/symlink/adc088s102.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1635440733857&ref_url=https%253A%252F%252Fwww.mouser.com%252F
+$ENDCMP
+#
+$CMP ESP32-DEVKITC-32D
+F https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf
+$ENDCMP
+#
+#End Doc Library
