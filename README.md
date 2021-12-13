@@ -16,3 +16,6 @@ Repository for University Kentucky Senior Capstone Design Team (Spring/Fall 2021
      - Left Brake "Pads"
      - Right Brake "Pads"
      - Washer (?)
+
+## 3D Drawings
+  - Files for PCB
